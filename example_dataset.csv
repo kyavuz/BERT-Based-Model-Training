@@ -1,0 +1,4 @@
+Age,Gender,Marital Status,Occupation,Monthly Income,Educational Qualifications,Family size,latitude,longitude,Pin code,Output,Feedback
+30,Male,Married,Engineer,75000,Master's,3,40.7128,-74.0060,10001,Yes,Positive
+25,Female,Single,Doctor,100000,Ph.D,2,34.0522,-118.2437,90001,No,Negative
+35,Male,Married,Teacher,50000,Bachelor's,4,41.8781,-87.6298,60601,Yes,Positive
